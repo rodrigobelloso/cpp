@@ -1,1 +1,1 @@
-# cpp - a comprehensive quickstart with C++
+# cpp - get started with C++
